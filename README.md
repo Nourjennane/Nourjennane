@@ -1,4 +1,4 @@
-# Hi, I'm Nour 👋
+# Ciao, I'm Nour 👋
 
 🦾 AI & Data Science student based in Milan
 Currently exploring **NLP, computer vision, and applied ML**.
