@@ -20,12 +20,4 @@ Currently exploring **NLP, computer vision, and applied ML**.
 
 - 🔤 **[irab_project](https://github.com/Nourjennane/irab_project)** — I'rāb-guided Arabic diacritization. Multi-task NLP that predicts diacritics, grammatical role, and orthographic errors jointly.
 - 👁️ **[feedback-augmented-rtdetr](https://github.com/Nourjennane/feedback-augmented-rtdetr)** — Cross-attention refinement on RT-DETR for small-object detection. Bocconi CV course project.
-- 🩺 **[Diabetic-Retinopathy-Detection](https://github.com/Nourjennane/Diabetic-Retinopathy-Detection-)** — CNN-based grading of diabetic retinopathy from retinal fundus images.
 - 🧊 **[rubiks-cube-scanner](https://github.com/Nourjennane/rubiks-cube-scanner)** — End-to-end Rubik's Cube scanner & solver with CV + interactive 3D web demo.
-
----
-
-### 📊 GitHub stats
-
-![Nour's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nourjennane&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nourjennane&layout=compact&hide_border=true)
